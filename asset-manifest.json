@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/VIT_MERN_INTERNSHIP_WORD_COUNTER/static/css/main.30ea52ad.css",
+    "main.js": "/VIT_MERN_INTERNSHIP_WORD_COUNTER/static/js/main.67f527e9.js",
+    "index.html": "/VIT_MERN_INTERNSHIP_WORD_COUNTER/index.html",
+    "main.30ea52ad.css.map": "/VIT_MERN_INTERNSHIP_WORD_COUNTER/static/css/main.30ea52ad.css.map",
+    "main.67f527e9.js.map": "/VIT_MERN_INTERNSHIP_WORD_COUNTER/static/js/main.67f527e9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30ea52ad.css",
+    "static/js/main.67f527e9.js"
+  ]
+}
