@@ -34,7 +34,7 @@ class Main extends Component{
             )
         }
 
-        console.log(this.state.disp_count)
+  
 
     }
     render(){
